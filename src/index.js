@@ -4,14 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import Header from './components/Header';
-import Menu from './components/Menu';
-import Content from './components/Content';
-import Footer from './components/Footer';
-
-import Micropaydailyreport from './components/Micropaydailyreport';
-import Test from './components/Test';
-
 ReactDOM.render(
   <React.StrictMode>
     <App />

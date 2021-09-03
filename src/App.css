@@ -1,3 +1,4 @@
+@import '~antd/dist/antd.css';
 .App {
   text-align: center;
 }
@@ -35,4 +36,35 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.logo {
+  color: #fff;
+}
+
+.tb-ant-export-style {
+  position: absolute;
+  top: 0px;
+  margin-left: 245px;
+}
+
+.ant-drawer-mask {
+  opacity: 0.1 !important;
+}
+
+.anticon svg {
+  display: block;
+}
+
+#test-table-xls-button {
+  position: absolute;
+  bottom: 0px;
+  width: max-content;
+  height: 32px;
+  padding: 4px 15px;
+  font-size: 14px;
+  border-radius: 2px;
+  background-color: orange;
+  border: darkorange;
+  color: #fff;
 }
