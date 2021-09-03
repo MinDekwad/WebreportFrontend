@@ -1,0 +1,55 @@
+.w5{width: 5px;}
+.w100p{width: 100%;}
+.pdr0{padding-right: 0px;}
+.pdl0{padding-left: 0px;}
+.pdr1{padding-right: 0px;}
+.pdl1{padding-left: 0px;}
+.fl{float: left;}
+.fr{float:right;}
+.mgat{margin: auto;}
+.content-wrapper{ min-height: 100vh;}
+.nav-item a .nav-sub-menu{font-size: 14px;}
+.search-dialy-sum { margin: 0px 0px 0px 0px;}
+.react-datepicker-wrapper{width: 100%;}
+.DateDailySummaryReport {width: 100%; border-right: none; border-top-right-radius: 0px; border-bottom-right-radius: 0px;}
+.spanDateDailySummaryReport{ border-top-left-radius: 0px;  border-bottom-left-radius: 0px;}
+.fa-sign-out-alt{font-size: 20px;}
+/* #MainPDF{max-width: 0px; min-width: 800px;} */
+.bgblack{background: #000;}
+.bgryb{background: royalblue;}
+.bdr0{border-radius: 0px;}
+.title-micropay{color: #fff; font-size: 14px; font-weight: bold;}
+.logo-micropay{float: right;}
+.text-center{text-align: center;}
+.text-right{text-align: right;}
+.btn-edit{padding: 5px; font-size: 14px;}
+.bgblue {background-color:#007bff !important;}
+.bdtlr25{border-top-left-radius:.25rem}
+.bdtrr25{border-top-right-radius:.25rem}
+.text-white{color: #fff;}
+.bd0impt{border: none !important;}
+
+.nav-sidebar .nav-link>.right, .nav-sidebar .nav-link>p>.right{
+    position: absolute;
+    right: 10px;
+    top: 14px;
+}
+.nav-sidebar{font-size: 12px;}
+.gQHdOi div:first-child{white-space: inherit !important;overflow: unset !important;text-overflow: unset !important;}
+
+
+@media screen and (min-width: 576px) {
+    .search-dialy-sum { margin: 31px 0px 0px 0px;}
+}
+
+@media screen and (min-width: 768px) {
+    .title-micropay{color: #fff; font-size: 24px; font-weight: bold;}
+}
+
+@media screen and (min-width: 992px) {
+    .title-micropay{color: #fff; font-size: 32px; font-weight: bold;}
+}
+
+@media screen and (min-width: 1024px) {
+   
+}
